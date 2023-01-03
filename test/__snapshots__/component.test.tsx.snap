@@ -17,7 +17,7 @@ exports[`<Counter /> > renders 1 1`] = `
       class="hope-Button-root hope-c-gcZMyU hope-c-ezsQXO hope-c-hVhtWI my-4"
       type="button"
     >
-      Clicks: 
+      Clicks:
       0
     </button>
   </div>
